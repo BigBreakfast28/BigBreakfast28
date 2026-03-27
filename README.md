@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Cameron Dean
 
-<!--
-**BigBreakfast28/BigBreakfast28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Scientist | Data Engineer | Analytics
 
-Here are some ideas to get you started:
+I specialize in building data-driven solutions using machine learning, SQL, and modern data platforms like Databricks and Snowflake.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Featured Projects
+
+### 🛒 Grocery Inventory Analytics (Databricks, SQL, Delta Lake)
+- Identified 455+ low-stock products
+- Built predictive model for inventory forecasting
+- Developed dashboard for inventory monitoring
+
+### 📊 Credit Risk Classification (Deep Learning)
+- Neural network model for multi-class risk prediction
+- Addressed class imbalance using macro F1 and balanced accuracy
+
+### 📈 Oil & Gas Price Forecasting (SARIMA/SARIMAX)
+- Time series forecasting using FRED data
+- Compared univariate vs multivariate models
+
+---
+
+## 🧠 Skills
+
+- Python (Pandas, NumPy, Scikit-learn, TensorFlow)
+- SQL (Snowflake, Databricks)
+- Machine Learning & Deep Learning
+- Time Series Forecasting
+- Data Engineering (Delta Lake)
+
+---
+
+## 📫 Let’s Connect
+- LinkedIn: (add this later)
