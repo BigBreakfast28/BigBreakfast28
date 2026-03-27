@@ -34,4 +34,4 @@ I specialize in building data-driven solutions using machine learning, SQL, and 
 ---
 
 ## 📫 Let’s Connect
-- LinkedIn: (add this later)
+- LinkedIn: (https://www.linkedin.com/in/cameron-dean-01737b246/)
